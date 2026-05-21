@@ -8,7 +8,7 @@ export default function stylizedCardMessage(text) {
       externalAdReply: {
         title: "BLACK ZESH",
         body: "BLACK ZESH",
-        thumbnail: fs.readFileSync("./database/DigiX.jpg"),
+        thumbnail: fs.readFileSync("./database/zesh.jpg"),
         sourceUrl: "https://whatsapp.com",
         mediaType: 1,
         renderLargerThumbnail: false
